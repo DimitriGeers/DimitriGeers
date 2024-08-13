@@ -1,8 +1,8 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/DimitriGeers/DimitriGeers/master/gifs/hello-world.gif" width="100" align="middle">
-  Hello World!
-  <img src="https://raw.githubusercontent.com/DimitriGeers/DimitriGeers/master/gifs/hello-world.gif" width="100" align="middle">
-</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DimitriGeers/DimitriGeers/feature/statistics-dashboard/gifs/hello-world.gif" width="300" align="middle">
+  <h2>Hello World!</h2>
+</div>
+
 
 
 <p align="center">
