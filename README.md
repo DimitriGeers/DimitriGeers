@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DimitriGeers/DimitriGeers/feature/statistics-dashboard/gifs/hello-world.gif" width="300" align="middle">
+  <img src="https://raw.githubusercontent.com/DimitriGeers/DimitriGeers/feature/statistics-dashboard/gifs/banner-dimitri-geers.gif" align="middle">
   <h2>Hello World!</h2>
 </div>
 
