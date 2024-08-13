@@ -1,14 +1,11 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/DimitriGeers/DimitriGeers/master/gifs/hello-world.gif" width="100" align="middle"> Hello World!
-  <img src="https://raw.githubusercontent.com/DimitriGeers/DimitriGeers/master/gifs/hello-world.gif" width="100"
+  <img src="https://raw.githubusercontent.com/DimitriGeers/DimitriGeers/master/gifs/hello-world.gif" width="100" align="middle">
+  Hello World!
+  <img src="https://raw.githubusercontent.com/DimitriGeers/DimitriGeers/master/gifs/hello-world.gif" width="100" align="middle">
 </h1>
 
 
 <p align="center">
-<!-- Most used Languages -->
-  <a href="https://github.com/dimitrigeers/github-readme-stats">
-    <img height="175" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriGeers&theme=algolia&langs_count=8&border_radius=0&&hide_progress=true"/>
-  </a>
 
 <!-- Streak -->
   <a href="https://git.io/streak-stats">
