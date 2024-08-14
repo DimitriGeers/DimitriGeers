@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/DimitriGeers/DimitriGeers/master/gifs/banner-dimitri-geers.gif" align="middle">
-  <h2>Hello World!</h2>
+  <h1>Hello World!</h1>
 </div>
 
 
@@ -27,3 +27,29 @@
   </a>
 </p>
 
+
+
+## Hi, I'm Dimitri!
+**Service Delivery Manager | Analyst | Product Owner**
+
+I thrive at the intersection of technology and business, where strategy meets execution. With a passion for delivering value and a love for solving complex problems, my role revolves around ensuring that teams work harmoniously to exceed customer expectations.
+
+
+### What I Do:
+
+- **Service Delivery Management:** I oversee the end-to-end delivery process, ensuring services are delivered on time, within scope, and aligned with business goals. I bridge the gap between technical teams and stakeholders, making sure everyone is on the same page.
+
+- **Business Analysis:** I look into business requirements, translate them into actionable tasks, and collaborate with cross-functional teams to implement solutions that drive growth and efficiency.
+
+- **Product Ownership:** I prioritise features, manage backlogs, and work closely with development teams to deliver products that resonate with users and stakeholders alike.
+
+
+### Continuous Improvement:
+
+I believe in the power of continuous learning and always seek out opportunities to expand my skill set. Whether it's exploring the world of code, or fine-tuning my leadership skills, I'm committed to staying at the forefront of my field.
+
+
+
+### Let's Connect!
+
+I'm always open to discussing new ideas, sharing insights, or just having a chat: Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dimitrigeers/) 
