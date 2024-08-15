@@ -39,7 +39,7 @@ I thrive at the intersection of technology and business, where strategy meets ex
 
 - **Service Delivery Management:** I oversee the end-to-end delivery process, ensuring services are delivered on time, within scope, and aligned with business goals. I bridge the gap between technical teams and stakeholders, making sure everyone is on the same page.
 
-- **Business Analysis:** I look into business requirements, translate them into actionable tasks, and collaborate with cross-functional teams to implement solutions that drive growth and efficiency.
+- **Functional & Business Analysis:** I look into business requirements, translate them into actionable tasks, and collaborate with cross-functional teams to implement solutions that drive growth and efficiency.
 
 - **Product Ownership:** I prioritise features, manage backlogs, and work closely with development teams to deliver products that resonate with users and stakeholders alike.
 
