@@ -52,4 +52,4 @@ I believe in the power of continuous learning and always seek out opportunities 
 
 ### Let's Connect!
 
-I'm always open to discussing new ideas, sharing insights, or just having a chat: Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dimitrigeers/) 
+I'm always open to discussing new ideas, sharing insights, or just having a chat: Feel free to reach out or follow me on [LinkedIn](https://www.linkedin.com/in/dimitrigeers/) 
