@@ -93,5 +93,14 @@ Whether you're interested in tech, gaming, or just want to connect, feel free to
 
 </div>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p align=center>
+  <sub> Created with 🫶🏻 by  <a href="https://github.com/MarieLynneBlock">Marie-Lynne Block</a> &nbsp;&nbsp;&nbsp; ©2024 </sub>
+</p>
 
 
