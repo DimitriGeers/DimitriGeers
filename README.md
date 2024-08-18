@@ -30,7 +30,10 @@
 
 ## Hi, I'm Dimitri! 👋
 
-### By Day: Service Delivery Manager | Analyst | Product Owner 💼
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DimitriGeers/DimitriGeers/master/gifs/by-day.gif" align="middle">
+  <h4>Service Delivery Manager | Analyst | Product Owner</h4>
+</div>
 
 I thrive at the intersection of technology and business, where strategy meets execution. With a passion for delivering value and solving complex problems, my role revolves around ensuring that teams work harmoniously to exceed customer expectations.
 
@@ -44,13 +47,16 @@ I believe in continuous learning and always seek opportunities to expand my skil
 
 ---
 
-### By Night: Programmer | Automation Enthusiast | Gamer 🌙
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DimitriGeers/DimitriGeers/master/gifs/by-night.gif" align="middle">
+  <h4>Programmer | Automation & IoT Enthusiast | Gamer</h4>
+</div>
 
 Once the professional hat is off, I dive into my passion for programming and gaming. I use my free time to explore creative solutions through code and automation.
 
 **Favourite Programming Languages:**
-- **Python** 🐍:My go-to.
-- **JavaScript** ⚡
+- Python 🐍
+- JavaScript 📜
 
 **Programming Challenges & Games**:  
 I enjoy taking on coding challenges, especially those that push my skills to new levels. Whether it's playing programming games like [Screeps](https://screeps.com) or building automation scripts to enhance gaming experiences, I love crafting efficient solutions.
@@ -61,7 +67,12 @@ In my spare time, I work on automating gameplay, developing macros, and creating
 
 Check out my repositories to see what I’ve been working on!
 
+---
 
-### Let's Connect!
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DimitriGeers/DimitriGeers/master/gifs/by-night.gif" align="middle">
+  <h4>I'm always open to discussing new ideas, sharing insights, or just having a chat</h4>
+</div>
 
-I'm always open to discussing new ideas, sharing insights, or just having a chat: Feel free to reach out or follow me on [LinkedIn](https://www.linkedin.com/in/dimitrigeers/) 
+ 
+ [LinkedIn](https://www.linkedin.com/in/dimitrigeers/) 
