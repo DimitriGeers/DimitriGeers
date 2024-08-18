@@ -28,26 +28,38 @@
 </p>
 
 
+## Hi, I'm Dimitri! 👋
 
-## Hi, I'm Dimitri!
-**Service Delivery Manager | Analyst | Product Owner**
+### By Day: Service Delivery Manager | Analyst | Product Owner 💼
 
-I thrive at the intersection of technology and business, where strategy meets execution. With a passion for delivering value and a love for solving complex problems, my role revolves around ensuring that teams work harmoniously to exceed customer expectations.
+I thrive at the intersection of technology and business, where strategy meets execution. With a passion for delivering value and solving complex problems, my role revolves around ensuring that teams work harmoniously to exceed customer expectations.
+
+**What I Do:**
+- **Service Delivery Management**: Overseeing the end-to-end delivery process, ensuring services are delivered on time, within scope, and aligned with business goals. I bridge the gap between technical teams and stakeholders, making sure everyone is on the same page.
+- **Functional & Business Analysis**: Translating business requirements into actionable tasks and collaborating with cross-functional teams to implement solutions that drive growth and efficiency.
+- **Product Ownership**: Prioritising features, managing backlogs, and working closely with development teams to deliver products that resonate with users and stakeholders alike.
+
+**Continuous Improvement**:  
+I believe in continuous learning and always seek opportunities to expand my skill set. Whether it's exploring new technologies or fine-tuning my leadership skills, I'm committed to staying at the forefront of my field.
+
+---
+
+### By Night: Programmer | Automation Enthusiast | Gamer 🌙
+
+Once the professional hat is off, I dive into my passion for programming and gaming. I use my free time to explore creative solutions through code and automation.
+
+**Favourite Programming Languages:**
+- **Python** 🐍:My go-to.
+- **JavaScript** ⚡
+
+**Programming Challenges & Games**:  
+I enjoy taking on coding challenges, especially those that push my skills to new levels. Whether it's playing programming games like [Screeps](https://screeps.com) or building automation scripts to enhance gaming experiences, I love crafting efficient solutions.
+
+**Projects & Automation**:  
+In my spare time, I work on automating gameplay, developing macros, and creating personal projects that help me refine my skills.
 
 
-### What I Do:
-
-- **Service Delivery Management:** I oversee the end-to-end delivery process, ensuring services are delivered on time, within scope, and aligned with business goals. I bridge the gap between technical teams and stakeholders, making sure everyone is on the same page.
-
-- **Functional & Business Analysis:** I look into business requirements, translate them into actionable tasks, and collaborate with cross-functional teams to implement solutions that drive growth and efficiency.
-
-- **Product Ownership:** I prioritise features, manage backlogs, and work closely with development teams to deliver products that resonate with users and stakeholders alike.
-
-
-### Continuous Improvement:
-
-I believe in the power of continuous learning and always seek out opportunities to expand my skill set. Whether it's exploring the world of code, or fine-tuning my leadership skills, I'm committed to staying at the forefront of my field.
-
+Check out my repositories to see what I’ve been working on!
 
 
 ### Let's Connect!
