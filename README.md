@@ -74,7 +74,7 @@ Check out my repositories to see what I’ve been working on!
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DimitriGeers/DimitriGeers/master/gifs/by-night.gif" align="middle">
+  <img src="https://raw.githubusercontent.com/DimitriGeers/DimitriGeers/master/gifs/connect.gif" align="middle">
   <h4>I'm always open to discussing new ideas, sharing insights, or just having a chat</h4>
 </div>
 
