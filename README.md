@@ -100,7 +100,7 @@ Whether you're interested in tech, gaming, or just want to connect, feel free to
 <br>
 
 <p align=center>
-  <sub> Created with 🫶🏻 by  <a href="https://github.com/MarieLynneBlock">Marie-Lynne Block</a> &nbsp;&nbsp;&nbsp; ©2024 </sub>
+  <sub> Created with 🧡 by  <a href="https://github.com/MarieLynneBlock">Marie-Lynne Block</a> &nbsp;&nbsp;&nbsp; ©2024 </sub>
 </p>
 
 
